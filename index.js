@@ -59,3 +59,4 @@ var maxFrequency = 1, ctr = 0, maxValue;
         } ctr=0;
     }
 console.log(maxValue)
+
